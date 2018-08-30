@@ -1,0 +1,29 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "description": "Implementations of reactjs, react-routerv4 material-ui, redux, redux-form, ",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "1.5.1",
+    "@material-ui/icons": "2.0.3",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-redux": "5.0.7",
+    "react-router-dom": "4.3.1",
+    "react-select": "latest",
+    "redux": "4.0.0",
+    "redux-form": "7.4.2",
+    "redux-form-material-ui": "5.0.0-beta.3",
+    "redux-form-website-template": "0.0.123"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
